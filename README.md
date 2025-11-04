@@ -1,4 +1,62 @@
 ## Salut, moi c’est Archange 👋
+<!-- En-tête visuel -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Bienvenue+sur+le+profil+d'Archange+!;Entrepreneur+%7C+Chef+de+projet+SIG+%7C+Designer+Graphique" alt="Typing SVG" />
+</p>
+
+---
+
+👨💼 À propos de moi
+
+Je suis Archange, entrepreneur basé à Butembo (RDC), passionné par la technologie, le design et l’impact local.  
+Je dirige un atelier d’impression spécialisé en branding événementiel et je pilote le développement d’un système de gestion cadastrale pour l’administration locale.
+
+---
+
+🧰 Compétences techniques
+
+!C#
+!UML
+!Photoshop
+!Design
+
+- Modélisation : UML, Merise, analyse fonctionnelle
+- Développement : C#, Windows Forms, interfaces responsives
+- Design : typographie, palettes de couleurs, composition visuelle
+- Gestion de projet : diagnostic, documentation, coordination technique
+- Outils : Photoshop (avec IA), Office, templates pro
+
+---
+
+🚀 Projets en cours
+
+| Projet | Description | Statut |
+|-------|-------------|--------|
+| 🗺️ SIG Butembo | Application de gestion cadastrale pour l’administration locale | 🔄 En développement |
+| 🎨 Logo AGREDI-SARL | Refonte de l’identité visuelle avec icône et typographie moderne | ✅ Finalisation |
+| 📘 Document biblique | Compilation illustrée de messages spirituels pour l’enseignement | 🧠 En rédaction |
+
+---
+
+📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Archange243&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archange243&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+---
+
+📫 Me contacter
+
+- 📍 Localisation : Butembo, Nord-Kivu, RDC  
+- ✉️ Email : ton.email@exemple.com  
+- 🌐 Site web : www.ton-site-pro.com (si disponible)
+
+---
+
+> “La technologie bien pensée est un levier puissant pour transformer nos environnements.”  
+> — Archange
 
 🎯 Entrepreneur & développeur à Butembo  
 🖨️ Gérant d’un atelier d’impression , ong cosedeluccongo & chef de projet bcam
